@@ -69,6 +69,8 @@ h2{
 
 .abtxt {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    display: block;
 }
 
 #btn:hover {
